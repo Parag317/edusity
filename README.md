@@ -1,12 +1,33 @@
-# React + Vite
+# 🎓 Edusity – Online Learning Platform (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Edusity is a modern, responsive online learning UI built using **React** and **Vite**.  
+It includes homepage sections, video banners, course highlights, and smooth UI animations designed for a real-world educational website.
 
-Currently, two official plugins are available:
+This project was created for portfolio purposes to showcase front-end development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js**
+- **Vite**
+- **JavaScript (ES6+)**
+- **CSS / TailwindCSS (if used)**
+- **React Hooks**
+- **Responsive Web Design**
+
+---
+
+## ✨ Features
+
+- 📌 Modern and clean UI  
+- 🎥 Video banner / hero section  
+- 📱 Fully responsive layout  
+- ⚡ Fast development environment with Vite  
+- 📚 Multiple educational sections (courses, about, contact, etc.)  
+- 🎨 Smooth animations and transitions  
+
+---
+
+## 📂 Folder Structure
+
